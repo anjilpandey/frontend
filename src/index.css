@@ -1,0 +1,28 @@
+/* h1{
+    color: brown;
+} */
+/* .carousel-image{
+    height: 450px;
+} */
+.hoverclass:hover{
+    color: red;
+    box-shadow: 2px 3px rgb(226, 4, 4);
+    background-color: rgb(27, 27, 27);
+
+}
+.department-image{
+    height: 350px;
+}
+.hovertitle:hover{
+    color: rgb(255, 0, 0);
+}
+.cheight{
+    height: 450px;
+}
+.imagehover:hover{
+    transform: scale(1.1);
+}
+.imagehover{
+    transition: 1s;   
+
+}
